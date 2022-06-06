@@ -1,1 +1,12 @@
 Lorem ipsum 
+
+comandos git 
+
+mk dir  - cria uma nova pasta
+ls  - lista os aquivos de um diretorio
+clear - limpa o terminal
+dir  - lista os arquivos de um diretorio
+cd  - avança para um determinado diretorio
+cd .. - volta para o diretorio anterior
+git clone  - faz uma cópia do diretorio remoto para a sua maquina
+git pull origin master - atualiza os arquivos do diretorio local
